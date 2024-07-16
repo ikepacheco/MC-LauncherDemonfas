@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ikepacheco/MC-LauncherDemonfas/blob/main/pack.png?raw=true" width="110" height="110"/>
+  <img src="https://github.com/ikepacheco/MC-LauncherDemonfas/blob/main/pack.png?raw=true"/>
   <br/>
   <br/>
   <br/>
