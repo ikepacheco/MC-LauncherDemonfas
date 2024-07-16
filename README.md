@@ -13,6 +13,10 @@
   <img src="https://github.com/ikepacheco/MC-LauncherDemonfas/blob/main/launcherimg1.png?raw=true"/>
   <br/>
   <img src="https://github.com/ikepacheco/MC-LauncherDemonfas/blob/main/launcherimg2.png?raw=true"/>
+  <br/>
+  <img src="https://github.com/ikepacheco/MC-LauncherDemonfas/blob/main/deleteimg.png?raw=true"/>
+  <br/>
+  <img src="https://github.com/ikepacheco/MC-LauncherDemonfas/blob/main/updateimg.png?raw=true"/>
 </div>
 
 <br/>
