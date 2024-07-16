@@ -26,9 +26,6 @@ Este launcher fue desarrollado en C# nativo, no utiliza bibliotecas externas par
 #### :fire: ¿Deseas comprar licencia de uso, o tal vez, comprar el código fuente?
 
 Contáctame a:
- - splitting code into more reusable parts
- - curry and function composition
- - easier testing and debugging
- - compact and clean code
+<a href="https://www.facebook.com/demonfas/"><img src="https://devdemon.ovh/blog/wp-content/uploads/2024/07/fb.png" width="100px" alt="facebook"/></a>
  
 <br/>
